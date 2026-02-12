@@ -1,1 +1,2 @@
 # Master_Noob_PHP_WebShop
+一个超轻量级网页市场，可以作为Minecraft服务器，或其他任何游戏服务器，甚至非游戏服务的超轻量网页市场解决方案
